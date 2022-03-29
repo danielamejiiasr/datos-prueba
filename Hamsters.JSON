@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Hamtaro",
+    "img": "https://raw.githubusercontent.com/danielamejiiasr/datos-prueba/main/IMG/Hamtaro.png"
+  },
+  {
+    "name": "Bocadín",
+    "img": "https://raw.githubusercontent.com/danielamejiiasr/datos-prueba/main/IMG/Bocadin.png"
+  },
+  {
+    "name": "Colitas",
+    "img": "https://raw.githubusercontent.com/danielamejiiasr/datos-prueba/main/IMG/Colitas.png"
+  },
+  {
+    "name": "Pashmina",
+    "img": "https://raw.githubusercontent.com/danielamejiiasr/datos-prueba/main/IMG/Pashmina.png"
+  },
+  {
+    "name": "Tigrilla",
+    "img": "https://raw.githubusercontent.com/danielamejiiasr/datos-prueba/main/IMG/Tigrilla.png"
+  }
+]
